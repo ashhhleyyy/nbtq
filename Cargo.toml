@@ -8,6 +8,8 @@ description = "Convert NBT files into JSON for easy processing with tools like j
 homepage = "https://github.com/ashhhleyyy/nbtq"
 repository = "https://github.com/ashhhleyyy/nbtq"
 readme = "README.md"
+keywords = ["minecraft", "nbt", "jq"]
+categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
