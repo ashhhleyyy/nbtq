@@ -1,0 +1,14 @@
+[package]
+name = "nbtq"
+version = "0.1.0"
+edition = "2021"
+authors = ["Ashhhleyyy <ash@ashhhleyyy.dev>"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = { version = "3.1.18", features = ["derive"] }
+color-eyre = { version = "0.6.1", default-features = false }
+hematite-nbt = "0.5.2"
+serde = { version = "1.0.137", features = ["derive"] }
+serde_json = "1.0.81"
