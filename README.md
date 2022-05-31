@@ -21,5 +21,5 @@ nbtq map.nbt | jq .regions[].marker
 Pretty print NBT to a file:
 
 ```
-nbtq example.nbt > example.json
+nbtq --pretty example.nbt > example.json
 ```
