@@ -4,6 +4,10 @@ version = "0.1.0"
 edition = "2021"
 authors = ["Ashhhleyyy <ash@ashhhleyyy.dev>"]
 license = "MIT"
+description = "Convert NBT files into JSON for easy processing with tools like jq"
+homepage = "https://github.com/ashhhleyyy/nbtq"
+repository = "https://github.com/ashhhleyyy/nbtq"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
