@@ -1,4 +1,4 @@
-use std::{io, fs::File, path::PathBuf};
+use std::{fs::File, io, path::PathBuf};
 
 use clap::Parser;
 use color_eyre::Result;
